@@ -1,0 +1,19 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# Raw data (download via scripts/download_olist.py)
+data/raw/
+
+# OS files
+.DS_Store
+
+# Claude Code config
+.claude/
